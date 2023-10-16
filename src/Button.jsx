@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types'
 
 const Button = (props) => {
+    
     console.log(props)
   return (
     <div>
